@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35649#The-Lost-MountainA-Tale-of-Sonora
 gutenberg_issued: '2011-03-21'
 gutenberg_type: Text
 identifiers:
